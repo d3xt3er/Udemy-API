@@ -2,9 +2,6 @@
 Curso Básico de APIs com Node, Express e MongoDB
 
 ![Udemy](/Images/logo-coral-light.png)
-![Node.js](/Images/nodejs-logo.png)
-![mongoDB](/Images/MongoDB-Logo.png)
-![Docker](/Images/docker_facebook_share.png)
 
 <h2>Ferramentas utilizadas</h2>
 
