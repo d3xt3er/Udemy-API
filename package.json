@@ -4,7 +4,7 @@
   "description": "Curso Básico de APIs com Node, Express e MongoDB",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon server.js"
+    "test": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/d3xt3er/Udemy-API#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
