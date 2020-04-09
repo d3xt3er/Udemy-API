@@ -10,4 +10,4 @@ Curso Básico de APIs com Node, Express e MongoDB
 1. JWT
 1. Nodemon
 1. mongoDB
-1. Docker
+
